@@ -1,0 +1,121 @@
+body {
+    background-image: linear-gradient(#32ff7e, #7efff5);
+    width: 100%;
+    height: 100vh;
+}
+
+.btn {
+    padding: 10px 75px;
+}
+
+.btn-primary {
+    background-color: #fffa65;
+    color: #4b4b4b;
+    border: none;
+     margin-top: 15px;
+}
+
+.btn-info {
+    background-color: #18dcff;
+    border: none;
+    margin-top: 15px;
+}
+
+.header-container .header {
+    padding: 0% auto;
+    display: table;
+    margin: 0 auto;
+}
+
+.profile-image-container .profile-image {
+    max-width: 75%;
+    margin: 10px auto;
+    height: 400px;
+    display: table;
+}
+
+/* The animation code */
+@keyframes example {
+    0%   {background-color: #ff3838;}
+    25%  {background-color: #fff200;}
+    50%  {background-color: #17c0eb;}
+    100% {background-color: #3ae374;}
+}
+
+
+#Project {
+    background-color: lightblue;
+    animation: example 10s infinite;
+    /* margin-left:100px;
+    margin-right:100px;
+    margin-top:100px; */
+    margin: 100px;
+    padding: 50px;
+
+}
+.Home {
+    font-size: 20px;
+}
+.Project {
+    font-size: 20px;
+}
+.Contact {
+    font-size: 20px;
+}
+.Resume {
+    font-size: 20px;
+}
+
+/* #Home {
+    background-color: yellow;
+    margin-left: 200px;
+    padding: 50px;
+    width: 700px;
+    height: 500px;
+} */
+/* .img {
+    width: 300px;
+    height: 400px;
+} */
+
+.contactPage{
+    background-color: burlywood;
+    font-size: 20px;
+    margin: 100px;
+    padding: 50px;
+    width: 700px;
+    height: 300px;
+}
+
+.resumePage {
+    background-color: chocolate;
+    font-size: 20px;
+    margin-left: 115px;
+    padding: 50px;
+    width: 1000px;
+    height: 900px;
+}
+.Education {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Experience {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Accomplishments {
+    font-size: 20px;
+    font-weight: bolder;
+}
+.Home {
+    font-size: 20px;
+}
+.Project {
+    font-size: 20px;
+}
+.Contact {
+    font-size: 20px;
+}
+.Resume {
+    font-size: 20px;
+} */
